@@ -1,7 +1,11 @@
+Pequeña practica de data analytics usando Python, Google Colab, Pandas y Matplotlib.
+Al DataFrame se le realizaron la limpieza y discretizacion de los datos.
+Realizando tambien graficas correspondientes de la información, obteniendo las siguientes conclusiones...
+
+---
 # Conclusiones
 
 ---
-
 
 **Quienes son los solicitantes:**
 1.   69% de los solitantes del credito son hombres
